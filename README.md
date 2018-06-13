@@ -1,3 +1,1 @@
 # Continuum-Mechanics-Project
-
-
